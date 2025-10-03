@@ -1,7 +1,7 @@
 return {
   { "nvim-tree/nvim-web-devicons", opts = {} },
   {
-    "echasnovski/mini.nvim",
+    "nvim-mini/mini.nvim",
     version = "*",
     config = function()
       require("mini.files").setup({
@@ -22,7 +22,7 @@ return {
   },
 
   {
-    "echasnovski/mini.icons",
+    "nvim-mini/mini.icons",
     opts = {},
     lazy = true,
     specs = {
