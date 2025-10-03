@@ -7,12 +7,10 @@ return {
       workspaces = {
         {
           name = "personal",
-          path = "~/Documents/ObsidianVault",
+          path = "~/Documents/mathieu",
         },
       },
-      completion = {
-        nvim_cmp = true, -- auto complete des [[links]]
-      },
+      completion = {},
     },
   },
   {
