@@ -33,7 +33,7 @@ return {
 
   -- Formatter
   {
-    "williamboman/mason.nvim",
+    "mason-org/mason.nvim",
     opts = {
       ensure_installed = {
         "rustfmt", -- Rust
