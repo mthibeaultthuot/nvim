@@ -17,6 +17,9 @@ npm install -g typescript-language-server typescript
 
 # Rust tooling
 brew install rust-analyzer  
+
+# For grep
+brew install ripgrep
 ```
 
 ## 2. When all finish in neovim run the following :
